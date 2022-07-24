@@ -1,0 +1,1 @@
+# A simple log system built using Node and Express
